@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.gradient_back {
+  background-image: url(./images/sincerely-media-HoEYgBL_Gcs-unsplash.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-x: center;
+}  
+
+#contacts {
+  position: sticky;
+  bottom: 0;
+  right: 0;
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin-right: 0.8rem;
+  box-sizing: border-box;
+
+}
+
+#contacts i {
+  font-size: 34px;
+  text-align: right;
+  margin: 2rem;
+  max-width: 40px;
+  transition: padding-bottom 0.2s ease-in-out;
+  padding-bottom: 0;
+  cursor: pointer;
+  color: #717171;
+  text-shadow: 1px 1px 1px black;
+}
+
+#contacts i:hover {
+  padding-bottom: 10px;
+  color: #7A96A6;
+  text-shadow: 1px 1px 1px black;
+}
+
+.text {
+  padding-top: 1.6rem;
+}
+
+.skill_main {
+  background-image: url(./images/daniele-levis-pelusi-BXn8J4yjh3M-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-x: center;
+}
