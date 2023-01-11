@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LiamBeenkenPortfolio/static/css/main.189715a1.css",
-    "main.js": "/LiamBeenkenPortfolio/static/js/main.78b87961.js",
+    "main.css": "/LiamBeenkenPortfolio/static/css/main.121bb622.css",
+    "main.js": "/LiamBeenkenPortfolio/static/js/main.057165e7.js",
     "static/media/sincerely-media-HoEYgBL_Gcs-unsplash.png": "/LiamBeenkenPortfolio/static/media/sincerely-media-HoEYgBL_Gcs-unsplash.a85792f99e8464913764.png",
     "static/media/daniele-levis-pelusi-BXn8J4yjh3M-unsplash.jpg": "/LiamBeenkenPortfolio/static/media/daniele-levis-pelusi-BXn8J4yjh3M-unsplash.9125e61c8abbcc73ae68.jpg",
     "index.html": "/LiamBeenkenPortfolio/index.html",
-    "main.189715a1.css.map": "/LiamBeenkenPortfolio/static/css/main.189715a1.css.map",
-    "main.78b87961.js.map": "/LiamBeenkenPortfolio/static/js/main.78b87961.js.map"
+    "main.121bb622.css.map": "/LiamBeenkenPortfolio/static/css/main.121bb622.css.map",
+    "main.057165e7.js.map": "/LiamBeenkenPortfolio/static/js/main.057165e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.189715a1.css",
-    "static/js/main.78b87961.js"
+    "static/css/main.121bb622.css",
+    "static/js/main.057165e7.js"
   ]
 }
