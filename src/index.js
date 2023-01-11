@@ -27,11 +27,12 @@ root.render(
     </div>
 
     <div id="contacts">
-      <a href = "malito:liam.beenken@gmail.com">
-        <i class="fa-regular fa-envelope"></i>
+      <a href = "https://github.com/LIamB12" target="_blank" rel="noreferrer">
+        <i class="fa-brands fa-linkedin"></i>
       </a>
-      <i class="fa-brands fa-linkedin"></i>
-      <i class="fa-brands fa-github"></i>
+      <a href = "https://www.linkedin.com/in/liam-beenken/" target="_blank" rel="noreferrer">
+        <i class="fa-brands fa-github"></i>
+      </a>
       <p></p>
       </div>
     
