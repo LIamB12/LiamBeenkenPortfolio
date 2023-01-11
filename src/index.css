@@ -20,6 +20,7 @@
   justify-content: flex-end;
   margin-right: 0.8rem;
   box-sizing: border-box;
+  height: 0
 
 }
 
@@ -39,6 +40,19 @@
   padding-bottom: 10px;
   color: #7A96A6;
   text-shadow: 1px 1px 1px black;
+}
+
+.footer {
+  background-color: #4B5C71;
+  height: 8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: solid 8px cornflowerblue;
+}
+.footer p {
+  font-size: 30px;
+  color: white;
 }
 
 .text {

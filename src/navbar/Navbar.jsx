@@ -16,7 +16,7 @@ function Bar(props) {
 }
   
 function Burger(props) {
-    return <Hamburger color="black" size = {27}/>
+    return <Hamburger color="black" size = {27} onClick = {() => alertBox}/>
 }
 
 function ShowMenu(props) {
@@ -54,4 +54,7 @@ const Navbar = () => {
   )
 }
 
+function alertBox() {
+    alert("Mobile menu coming soon");
+}
 export default Navbar

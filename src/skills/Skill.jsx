@@ -5,13 +5,13 @@ const Skill = (props) => {
     const [expanded, setExpanded] = useState(false);
 
 
-    if (expanded) {
+    if (!expanded) {
         return (
             <div className="skill_box">
-                <div className={"skill_box_img" + " " + props.name}>
+                <div className={"skill_box_img"}>
                     <i class={props.iClass}></i>
                 </div>
-                <div className="skill_box_text">
+                <div className={"skill_box_text" + " " + props.name}>
                     <p>{props.skillText}</p>
                 </div>
                 <div className="skill_box_arrow" onClick = {() => setExpanded(!expanded)}>

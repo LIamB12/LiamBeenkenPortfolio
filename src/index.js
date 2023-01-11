@@ -9,7 +9,7 @@ import Projects from "./projects/Projects";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
-  
+    
     <div className="gradient_back">
       <Navbar id ="comp"/>
       <Header id="comp"/>
@@ -19,15 +19,21 @@ root.render(
       <Skills />
     </div>
       
-      <Projects />
+    
+    
+
+    <div className="footer">
+      <p>Contact me at liam.beenken@gmail.com</p>
+    </div>
 
     <div id="contacts">
-  
-      <i class="fa-regular fa-envelope"></i>
+      <a href = "malito:liam.beenken@gmail.com">
+        <i class="fa-regular fa-envelope"></i>
+      </a>
       <i class="fa-brands fa-linkedin"></i>
       <i class="fa-brands fa-github"></i>
       <p></p>
-    </div>
+      </div>
     
 
   </>
