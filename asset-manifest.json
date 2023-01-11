@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f46038a.css",
-    "main.js": "/static/js/main.78b87961.js",
-    "static/media/sincerely-media-HoEYgBL_Gcs-unsplash.png": "/static/media/sincerely-media-HoEYgBL_Gcs-unsplash.a85792f99e8464913764.png",
-    "static/media/daniele-levis-pelusi-BXn8J4yjh3M-unsplash.jpg": "/static/media/daniele-levis-pelusi-BXn8J4yjh3M-unsplash.9125e61c8abbcc73ae68.jpg",
-    "index.html": "/index.html",
-    "main.7f46038a.css.map": "/static/css/main.7f46038a.css.map",
-    "main.78b87961.js.map": "/static/js/main.78b87961.js.map"
+    "main.css": "/LiamBeenkenPortfolio/static/css/main.9efbf255.css",
+    "main.js": "/LiamBeenkenPortfolio/static/js/main.78b87961.js",
+    "static/media/sincerely-media-HoEYgBL_Gcs-unsplash.png": "/LiamBeenkenPortfolio/static/media/sincerely-media-HoEYgBL_Gcs-unsplash.a85792f99e8464913764.png",
+    "static/media/daniele-levis-pelusi-BXn8J4yjh3M-unsplash.jpg": "/LiamBeenkenPortfolio/static/media/daniele-levis-pelusi-BXn8J4yjh3M-unsplash.9125e61c8abbcc73ae68.jpg",
+    "index.html": "/LiamBeenkenPortfolio/index.html",
+    "main.9efbf255.css.map": "/LiamBeenkenPortfolio/static/css/main.9efbf255.css.map",
+    "main.78b87961.js.map": "/LiamBeenkenPortfolio/static/js/main.78b87961.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f46038a.css",
+    "static/css/main.9efbf255.css",
     "static/js/main.78b87961.js"
   ]
 }
