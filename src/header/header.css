@@ -92,6 +92,12 @@ p:hover {
 
 }
 
+@media screen and (max-height: 900px) {
+    .heads h1 {
+        font-size: 150px;
+    }
+}
+
 
 
 @media screen and (max-width: 590px) {
