@@ -14,7 +14,9 @@ const Skills = () => {
             <Skill iClass = "fa-brands fa-python" skillText = "3 years of experience coding in Python, with intermediate knowledge of algorithms and data structures" name = "python"/>
 
             </div>
+        
             <div className="skill_flex">
+            
             <Skill iClass="fa-brands fa-java" skillText = "2 years of experince coding in java, with a solid understanding of Object Oriented Programming" name ="java"/>
                 
             </div>

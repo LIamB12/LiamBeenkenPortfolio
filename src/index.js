@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import Navbar from './navbar/Navbar';
 import Header from './header/Header';
-import Skills from './skills/Skills';
+import Skills2 from './skills2/Skills2';
 import Projects from "./projects/Projects";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -16,7 +16,8 @@ root.render(
     
     </div>
     <div className="skill_main test">
-      <Skills />
+      <Skills2 id = "idSkill"/>
+      <Projects />
     </div>
       
     
@@ -27,10 +28,10 @@ root.render(
     </div>
 
     <div id="contacts">
-      <a href = "https://github.com/LIamB12" target="_blank" rel="noreferrer">
+      <a href = "https://www.linkedin.com/in/liam-beenken/" target="_blank" rel="noreferrer">
         <i class="fa-brands fa-linkedin"></i>
       </a>
-      <a href = "https://www.linkedin.com/in/liam-beenken/" target="_blank" rel="noreferrer">
+      <a href = "https://github.com/LIamB12" target="_blank" rel="noreferrer">
         <i class="fa-brands fa-github"></i>
       </a>
       <p></p>

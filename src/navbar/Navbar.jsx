@@ -3,13 +3,13 @@ import './navbar.css';
 import Hamburger from 'hamburger-react';
 
 function Bar(props) {
+
     return (
         <>
             <div className="nav_container">
-                <p>ABOUT ME</p>
-                <p>SKILLS</p>
-                <p>EDUCATION</p>
-                <p>PROJECTS</p>
+                <p onClick = {() => {window.scrollTo(0, 60)}}>ABOUT ME</p>
+                <p onClick = {() => {window.scrollTo(0, 765)}} href = {document.getElementById("idSkill")}>SKILLS</p>
+                <div onClick = {() => {window.scrollTo(0, 1300)}}><p>PROJECTS</p></div>
             </div>
         </>
     )

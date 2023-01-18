@@ -1,29 +1,35 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
 
-.project_main h2 {
+.project_main {
     padding-top: 30px;
     padding-bottom: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 h1 {
-    color: white;
+    color: black;
     font-family: Roboto, sans-serif;
     font-weight: 100;
     font-size: 40px;
     cursor: pointer;
 }
 
-.carousel {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-    padding-bottom: 50px;
+.project_main h1 {
+    padding: 30px;
 }
 
-.carousel img {
-    width: 250px;
-    height: 250px;
-    border: 1px solid white;
+.projects p {
+    text-decoration: underline;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+
+
+.projects {
+    box-shadow: 4px 4px 0 rgba(0,0,0,0.3);
+    border: solid 1px black;
 }
